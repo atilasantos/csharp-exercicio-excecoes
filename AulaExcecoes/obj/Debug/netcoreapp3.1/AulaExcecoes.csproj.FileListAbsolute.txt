@@ -1,0 +1,13 @@
+C:\Users\atila\OneDrive\Área de Trabalho\estudos\udemy\csharp\ws_vs2019\AulaExcecoes\AulaExcecoes\bin\Debug\netcoreapp3.1\AulaExcecoes.exe
+C:\Users\atila\OneDrive\Área de Trabalho\estudos\udemy\csharp\ws_vs2019\AulaExcecoes\AulaExcecoes\bin\Debug\netcoreapp3.1\AulaExcecoes.deps.json
+C:\Users\atila\OneDrive\Área de Trabalho\estudos\udemy\csharp\ws_vs2019\AulaExcecoes\AulaExcecoes\bin\Debug\netcoreapp3.1\AulaExcecoes.runtimeconfig.json
+C:\Users\atila\OneDrive\Área de Trabalho\estudos\udemy\csharp\ws_vs2019\AulaExcecoes\AulaExcecoes\bin\Debug\netcoreapp3.1\AulaExcecoes.runtimeconfig.dev.json
+C:\Users\atila\OneDrive\Área de Trabalho\estudos\udemy\csharp\ws_vs2019\AulaExcecoes\AulaExcecoes\bin\Debug\netcoreapp3.1\AulaExcecoes.dll
+C:\Users\atila\OneDrive\Área de Trabalho\estudos\udemy\csharp\ws_vs2019\AulaExcecoes\AulaExcecoes\bin\Debug\netcoreapp3.1\AulaExcecoes.pdb
+C:\Users\atila\OneDrive\Área de Trabalho\estudos\udemy\csharp\ws_vs2019\AulaExcecoes\AulaExcecoes\obj\Debug\netcoreapp3.1\AulaExcecoes.csprojAssemblyReference.cache
+C:\Users\atila\OneDrive\Área de Trabalho\estudos\udemy\csharp\ws_vs2019\AulaExcecoes\AulaExcecoes\obj\Debug\netcoreapp3.1\AulaExcecoes.AssemblyInfoInputs.cache
+C:\Users\atila\OneDrive\Área de Trabalho\estudos\udemy\csharp\ws_vs2019\AulaExcecoes\AulaExcecoes\obj\Debug\netcoreapp3.1\AulaExcecoes.AssemblyInfo.cs
+C:\Users\atila\OneDrive\Área de Trabalho\estudos\udemy\csharp\ws_vs2019\AulaExcecoes\AulaExcecoes\obj\Debug\netcoreapp3.1\AulaExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\atila\OneDrive\Área de Trabalho\estudos\udemy\csharp\ws_vs2019\AulaExcecoes\AulaExcecoes\obj\Debug\netcoreapp3.1\AulaExcecoes.dll
+C:\Users\atila\OneDrive\Área de Trabalho\estudos\udemy\csharp\ws_vs2019\AulaExcecoes\AulaExcecoes\obj\Debug\netcoreapp3.1\AulaExcecoes.pdb
+C:\Users\atila\OneDrive\Área de Trabalho\estudos\udemy\csharp\ws_vs2019\AulaExcecoes\AulaExcecoes\obj\Debug\netcoreapp3.1\AulaExcecoes.genruntimeconfig.cache
